@@ -10,15 +10,15 @@
 
 ## 教程
 
+## 项目示例
+
+## 第三方开发工具 SDK
+
 [白鹭引擎支持微信小游戏开发](http://developer.egret.com/cn/github/egret-docs/Engine2D/projectConfig/miniGame/index.html)
 
 [layabox 支持微信小游戏开发](https://www.layabox.com/news/read.php?id=20)
 
 [cocos creator 支持微信小游戏开发](http://www.cocos.com/creator)
-
-## 项目示例
-
-## 第三方开发工具 SDK
 
 ## 相关报道
 
