@@ -1,5 +1,7 @@
 # awesome-wxagame
 
+[备用](https://github.com/sharkspeed/awesome-wxgame)
+
 ## 官方链接
 
 [微信小游戏官方文档](https://mp.weixin.qq.com/debug/wxagame/dev/index.html)
